@@ -2,10 +2,10 @@
 I'm a web developer with good understanding in digital systems, a lot of ambition for new challenges and eager of learning.
 
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/IliasVilux/count.svg" />
-</p>
+</p> -->
 
 ![PHP](https://img.shields.io/badge/PHP-260000?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-260000?style=for-the-badge&logo=javascript&logoColor=white)
