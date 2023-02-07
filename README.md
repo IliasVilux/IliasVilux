@@ -25,4 +25,4 @@ I'm a web developer with good understanding in digital systems, a lot of ambitio
 <br>
 ![Github](https://img.shields.io/badge/Github-4a0d24?style=for-the-badge&logo=github&logoColor=white)
 
-![Ilias GitHub stats](https://github-readme-stats.vercel.app/api?username=IliasVilux&show_icons=true&theme=chartreuse-dark)
+![Ilias GitHub stats](https://github-readme-stats.vercel.app/api?username=IliasVilux&show_icons=true&theme=maroongold )
