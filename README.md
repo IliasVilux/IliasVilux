@@ -22,6 +22,7 @@ I'm a web developer with good understanding in digital systems, a lot of ambitio
 <br>
 ![Laravel](https://img.shields.io/badge/Laravel-260000?style=for-the-badge&logo=laravel&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-260000?style=for-the-badge&logo=ionic&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-260000?style=for-the-badge&logo=astro&logoColor=white)
 <br>
 ![Github](https://img.shields.io/badge/Github-260000?style=for-the-badge&logo=github&logoColor=white)
 
