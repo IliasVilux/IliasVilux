@@ -1,6 +1,8 @@
 ### Hi, I'm Ilias 👋
 I'm a web developer with good understanding in digital systems, a lot of ambition for new challenges and eager of learning.
 
+You can know more abour me in my <a href='https://iliasotsmandev.netlify.app/'></a>
+
 
 <!-- <p align="center"> 
   Visitor count<br>
