@@ -11,7 +11,7 @@ You can know more abour me in my [Portfolio](https://iliasotsmandev.netlify.app/
 
 ![PHP](https://img.shields.io/badge/PHP-260000?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-260000?style=for-the-badge&logo=javascript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-260000?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-260000?style=for-the-badge&logo=python&logoColor=white)
 <br>
 ![HTML5](https://img.shields.io/badge/HTML5-260000?style=for-the-badge&logo=html5&logoColor=white)
