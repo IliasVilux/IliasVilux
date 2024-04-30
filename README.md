@@ -20,9 +20,11 @@ You can know more abour me in my [Portfolio](https://iliasotsmandev.netlify.app/
 ![SASS](https://img.shields.io/badge/Sass-260000?style=for-the-badge&logo=sass&logoColor=white)
 <br>
 ![MySQL](https://img.shields.io/badge/MySQL-260000?style=for-the-badge&logo=mysql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-260000?style=for-the-badge&logo=graphql&logoColor=white)
 <br>
 ![NodeJs](https://img.shields.io/badge/Node.js-260000?style=for-the-badge&logo=nodedotjs&logoColor=white)
 <br>
+![Vue.js](https://img.shields.io/badge/Vue.js-260000?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-260000?style=for-the-badge&logo=laravel&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-260000?style=for-the-badge&logo=ionic&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-260000?style=for-the-badge&logo=astro&logoColor=white)
